@@ -145,6 +145,12 @@ nav ul li {
     padding: 0.4rem;
 }
 
+.details {
+    font-size: 15px;
+    color: #010105;
+    text-shadow: #fff;
+}
+
 .skills {
     max-width: 68.75rem;
     margin: auto;
@@ -349,6 +355,10 @@ footer {
         height: 37.5rem;
         width: 30rem;
     }
+    hr.line {
+        border: 1px solid green;
+        border-radius: 3px;
+    }
     .bio {
         margin-top: 0;
         width: 20.5rem;
@@ -362,6 +372,11 @@ footer {
     }
     .more-about p {
         text-align: justify;
+    }
+    .details {
+        font-size: 15px;
+        color: #010105;
+        text-shadow: #fff;
     }
     .icon {
         width: 5.875rem;
